@@ -2,7 +2,7 @@ body{
 
     font-family: 'Poppins', sans-serif;
     margin: 70px;
-    background-color: darkgray;
+    background-color: #ccffff;
 
 }
 p{
@@ -19,6 +19,10 @@ p{
     font-size: 2em;
     padding-left: 10px;
 }
+
+.margin-left
+
+
 .link-button-st{
 
 margin-top: 40px;
